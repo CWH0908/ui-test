@@ -7,11 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld'
+import { Button as CwhButton } from 'cwh-ui'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    CwhButton
   }
 }
 </script>

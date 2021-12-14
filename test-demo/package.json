@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "cwh-ui": "^0.0.14",
+    "cwh-ui": "^0.0.15",
     "vue": "^2.5.2"
   },
   "devDependencies": {

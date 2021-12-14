@@ -2019,10 +2019,10 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
-cwh-ui@^0.0.14:
-  version "0.0.14"
-  resolved "https://registry.npmjs.org/cwh-ui/-/cwh-ui-0.0.14.tgz#cae94ceccf547386be7c3983ddde4bdb231919a8"
-  integrity sha512-FUs4m9NhXiXVhuCS1KxbNbYwrmJTkQxgPnUhXUTWXdGpejVLlnBC2iHcsARsqcLqsgc1DM5eVqKWW7EQWS0GOA==
+cwh-ui@^0.0.15:
+  version "0.0.15"
+  resolved "https://registry.npmjs.org/cwh-ui/-/cwh-ui-0.0.15.tgz#2e89978ea2c1e5abcbe07740a8f74f0bce75e9c8"
+  integrity sha512-HDSwqiip/hWJx9pMk5DyXp/d1I/MvE/I5WYwUWXheXUnsDeZg4h9XEYOFpMnYRkFwnyjf+AZ2ybaFl0WaVCyxw==
 
 cyclist@^1.0.1:
   version "1.0.1"

@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/vue": "^2.0.0",
-    "cwh-ui": "^0.0.18",
+    "cwh-ui": "^0.0.25",
     "fs": "^0.0.1-security",
     "ts-loader": "^9.2.6",
     "vue": "^2.5.2",

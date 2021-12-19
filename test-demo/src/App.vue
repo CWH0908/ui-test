@@ -8,7 +8,7 @@
 
 <script>
 import { Button as CwhButton } from 'cwh-ui'
-import Test from './components/test.vue'
+// import Test from './components/test.vue'
 
 export default {
   name: 'App',
